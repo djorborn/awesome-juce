@@ -203,7 +203,6 @@ I make more JUCEy content over at https://melatonin.dev/blog
 |[animator](https://github.com/bgporter/animator) <br/> <sup>by [bgporter](https://github.com/bgporter)</sup> | Animation module implementing classic easing curves and some new ones| MIT|64|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[hack_audio_gui](https://github.com/HackAudio/hack_audio_gui) <br/> <sup>by [HackAudio](https://github.com/HackAudio)</sup> | Hack Audio's custom components| other|26| 5 years<sub><sup>🔴</sup></sub>|
 |[JIVE](https://github.com/ImJimmi/JIVE) <br/> <sup>by [ImJimmi](https://github.com/ImJimmi)</sup> | Build flexible GUIs using declarative markup| MIT|25|28 days<sub><sup>󠀠󠀠🟢</sup></sub>|
-|[JIVE](https://github.com/ImJimmi/JIVE) <br/> <sup>by [ImJimmi](https://github.com/ImJimmi)</sup> | Build flexible GUIs using declarative markup| MIT|25|28 days<sub><sup>󠀠󠀠🟢</sup></sub>|
 |[Resvg4JUCE](https://github.com/JanosGit/Resvg4JUCE) <br/> <sup>by [JanosGit](https://github.com/JanosGit)</sup> | Wrapper for the resvg rendering library| MPL-2.0|23| 1 year<sub><sup>🟠</sup></sub>|
 |[juce-draggableListBox](https://github.com/getdunne/juce-draggableListBox) <br/> <sup>by [getdunne](https://github.com/getdunne)</sup> | JUCE ListBox whose items can be reordered by drag-and-drop| MIT|12| 2 years<sub><sup>🟠</sup></sub>|
 |[juce-widgets](https://github.com/christofmuc/juce-widgets) <br/> <sup>by [christofmuc](https://github.com/christofmuc)</sup> | Unsorted collection of "widgets"| MIT|10|5 months<sub><sup>󠀠󠀠🟢</sup></sub>|
